@@ -1,0 +1,27 @@
+nav {
+    padding: 15px 0;
+}
+
+nav p {
+    padding-left: 15px;
+    color: white;
+}
+
+.btnNav {
+    margin-left: 20px;
+    border-radius: 5px;
+    border: 1px solid #FFF;
+    width: 170px;
+    height: 47px;
+    color: #FFF;
+    font-family: Manrope;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    background-color: transparent;
+}
+.btnNav:hover{
+    background: #FFF;
+    color: #202020;
+}

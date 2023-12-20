@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;700;800&display=swap');
+
+body {
+  margin: 0;
+  font-family:'Manrop';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(46, 45, 45);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.conteaner{
+  /* background-color: blue; */
+  max-width: 80%;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+
+.flex{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
